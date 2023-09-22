@@ -1,0 +1,29 @@
+M:\Lab03-01\Lab03-01\obj\Debug\Interop.WMPLib.dll
+M:\Lab03-01\Lab03-01\obj\Debug\AxInterop.WMPLib.dll
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+M:\Lab03-01\Lab03-01\bin\Debug\Lab03-01.exe.config
+M:\Lab03-01\Lab03-01\bin\Debug\Lab03-01.exe
+M:\Lab03-01\Lab03-01\bin\Debug\Lab03-01.pdb
+M:\Lab03-01\Lab03-01\bin\Debug\Interop.WMPLib.dll
+M:\Lab03-01\Lab03-01\bin\Debug\AxInterop.WMPLib.dll
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.exe
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.pdb
+M:\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\bin\Debug\Lab03-01.exe.config
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\bin\Debug\Lab03-01.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\bin\Debug\Lab03-01.pdb
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\bin\Debug\Interop.WMPLib.dll
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\bin\Debug\AxInterop.WMPLib.dll
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Interop.WMPLib.dll
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\AxInterop.WMPLib.dll
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03_01.Form1.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03-01\obj\Debug\Lab03-01.pdb

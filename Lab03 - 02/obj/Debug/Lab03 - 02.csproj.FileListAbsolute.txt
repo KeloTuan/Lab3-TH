@@ -1,0 +1,20 @@
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.AssemblyReference.cache
+M:\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.exe.config
+M:\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.exe
+M:\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.pdb
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03___02.Properties.Resources.resources
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.GenerateResource.cache
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.CoreCompileInputs.cache
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.exe
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.pdb
+M:\Lab03-01\Lab03 - 02\obj\Debug\Lab03___02.Form1.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.exe.config
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\bin\Debug\Lab03 - 02.pdb
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.AssemblyReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03___02.Form1.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03___02.Properties.Resources.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.GenerateResource.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.csproj.CoreCompileInputs.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab03-01\Lab03-01\Lab03 - 02\obj\Debug\Lab03 - 02.pdb
